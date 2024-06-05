@@ -6,4 +6,4 @@ Dataset 👇:
 
           Original dataset: "temp.csv"
 
-This dataset is available in "Kaggke".
+This dataset is available in "Kaggle".
